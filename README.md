@@ -1,5 +1,4 @@
 <h1 align="center">creatio, non consumunt</h1>
-<h3 align="center">iOS-Developer from St.Petersburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1at0&label=Profile%20views&color=0e75b6&style=flat" alt="p1at0" /> </p>
 
