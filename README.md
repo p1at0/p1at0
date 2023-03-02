@@ -4,7 +4,7 @@
 
 - Feedback **zalimkhanovv@gmail.com**
 
-NOTE: When integrating my projects, indicate the author!
+NOTE: If you want to add to my code or you find an error that you can fix, then feel free to write me an email, I will provide all the necessary access ;)
 
 
 <h3 align="left">Connect with me:</h3>
