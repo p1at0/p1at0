@@ -1,9 +1,10 @@
 <h1 align="center">Welcome! Here my open source projects</h1>
-NOTE: When integrating my projects, indicate the author!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1at0&label=Profile%20views&color=0e75b6&style=flat" alt="p1at0" /> </p>
 
 - Feedback **zalimkhanovv@gmail.com**
+NOTE: When integrating my projects, indicate the author!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
