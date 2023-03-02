@@ -4,7 +4,7 @@
 
 - Feedback **zalimkhanovv@gmail.com**
 
-NOTE: If you want to add to my code or you find an error that you can fix, then feel free to write me an email, I will provide all the necessary access ;)
+NOTE: If you want to add something to my code or find an error that you can fix, feel free to email me and I will confirm your contribution as soon as possible ;)
 
 <p align="left">
 <a href="https://instagram.com/zalimhanovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zalimhanovv" height="30" width="40" /></a>
