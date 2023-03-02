@@ -7,7 +7,7 @@
 NOTE: If you want to add to my code or you find an error that you can fix, then feel free to write me an email, I will provide all the necessary access ;)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Shit network:</h3>
 <p align="left">
 <a href="https://instagram.com/zalimhanovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zalimhanovv" height="30" width="40" /></a>
 </p>
