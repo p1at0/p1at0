@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! Here my open source projects</h1>
+<h1 align="center">Coucou! Here my open source projects</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1at0&label=Profile%20views&color=0e75b6&style=flat" alt="p1at0" /> </p>
 
@@ -6,8 +6,6 @@
 
 NOTE: If you want to add to my code or you find an error that you can fix, then feel free to write me an email, I will provide all the necessary access ;)
 
-
-<h3 align="left">Shit network:</h3>
 <p align="left">
 <a href="https://instagram.com/zalimhanovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zalimhanovv" height="30" width="40" /></a>
 </p>
