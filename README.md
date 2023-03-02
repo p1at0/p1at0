@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1at0&label=Profile%20views&color=0e75b6&style=flat" alt="p1at0" /> </p>
 
 - Feedback **zalimkhanovv@gmail.com**
+
 NOTE: When integrating my projects, indicate the author!
 
 
